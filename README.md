@@ -5,7 +5,9 @@ Collaboratively built, crowdsoured linked database and webapp of open tech conce
 
 ***
 
-## Users should be able to:
+<br>
+
+### Users should be able to:
 - Get short descriptions in simple language of important concepts which they get to upvote for demystification value
 - propose terms to be demistified
 - See how they relate to other concepts through their links 
