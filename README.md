@@ -1,19 +1,19 @@
 # Laypersons guide to the open tech galaxy
-#### A jargon busting concept map of open tech terms
+## A jargon busting concept map of open tech terms
 
 Collaboratively built, crowdsoured linked database and webapp of open tech concepts
 
+***
 
-### key elements
-1. short layperson description of a term (scored by users according to demystication
-Urban dictionary but for technological terms.
-2. the network of term relationships.
-
-Users should be able to:
+## Users should be able to:
 - Get short descriptions in simple language of important concepts which they get to upvote for demystification value
 - propose terms to be demistified
 - See how they relate to other concepts through their links 
 
+### key elements
+1. short layperson description of a term (scored by users according to demystication value)
+- Urban dictionary for technological terms.
+2. the network of term relationships.
 
 ### CORE DEV OUTPUTS:
 - data model and database
