@@ -27,10 +27,11 @@ Collaboratively built, crowdsoured linked database and webapp of open tech conce
 
 #### Dev contributors:
 All sorts of skills from programmers to knowledge seeking!
-database, programmers, designers, user experience, content, contributors,
+
+dataa engineering, wed developing, api developing, design, data science, data visualisation, user experience, etc etc
 
 
-#### Term Content Contributors:
+#### PLUS: anyone can be a term query or knowledge contributor:
 Needed to provide short descriptions. This is really key if the final interactive webapp is to provide any extra insight into the network of terms. With the descriptions however, the visual network becomes really powerful. The could also provide suggestions for potential relationship links to other terms
 
 ### HOW?
@@ -40,11 +41,12 @@ Put the challenge to local hack groups as a series of fun hack sessions with par
 - Tackle one challenge at a time.
 - allow teams to collaborate and encourage building on merging solutions. 
 - Different groups might be interested in different parts of the build challenges. 
+- Maybe even try an agile approach?
 
 
 
 
 
 
-### great potential as a data science data source
+### great potentialfor downsream data science projects
 
