@@ -26,13 +26,15 @@ Collaboratively built, crowdsoured linked database and webapp of open tech conce
   - upvoting descriptions
 
 #### Dev contributors:
-All sorts of skills from programmers to knowledge seeking!
+##### All sorts of skills from programmers to knowledge seeking!
+- dataa engineering - wed developing - api developing - design, data science - data visualisation - user experience - etc etc
 
-dataa engineering, wed developing, api developing, design, data science, data visualisation, user experience, etc etc
-
+<br>
 
 #### PLUS: anyone can be a term query or knowledge contributor:
 Needed to provide short descriptions. This is really key if the final interactive webapp is to provide any extra insight into the network of terms for the user. With the descriptions however, the visual network becomes really powerful. The could also provide suggestions for potential relationship links to other terms
+
+***
 
 ### HOW?
 ### Build it step by step
