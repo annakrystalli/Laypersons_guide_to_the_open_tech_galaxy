@@ -19,6 +19,7 @@ Collaboratively built, crowdsoured linked database and webapp of open tech conce
 
 ### CORE DEV OUTPUTS:
 - data model and database
+- aim for a linked datase framework
 - an api
 - an interactive webapp for
   - data visualisation and navigation
@@ -26,23 +27,27 @@ Collaboratively built, crowdsoured linked database and webapp of open tech conce
   - upvoting descriptions
 
 #### Dev contributors:
-##### All sorts of skills from programmers to knowledge seeking!
+##### All sorts of skills from programmers to term demystifying!
 - dataa engineering - wed developing - api developing - design, data science - data visualisation - user experience - etc etc
 
 <br>
 
-#### PLUS: anyone can be a term query or knowledge contributor:
-Needed to provide short descriptions. This is really key if the final interactive webapp is to provide any extra insight into the network of terms for the user. With the descriptions however, the visual network becomes really powerful. The could also provide suggestions for potential relationship links to other terms
+#### PLUS: anyone can be a term query contributor or demystifier:
+Crowsourcing descriptions is a key. If the final interactive webapp is to provide any extra insight into the network of terms for the user. With the descriptions however, the visual network becomes really powerful, and even before any data visualation, a simple interface to the term descriptions database would make a good prototype for the webapp.
+
+To supplement or instead of crowsourcing relationship links between the term, we could also try scraping link information. If it were systematic enough, we might be able to track it through time.
 
 ***
 
 ### HOW?
 ### Build it step by step
 
-Put the challenge to local hack groups as a series of fun hack sessions with particular focus on TUoS student groups. But the sessions will be open to anyone Provide a more flexible framework to work. 
+Put the challenge to local hack groups as a series of fun hack sessions with particular focus on TUoS student groups. But the sessions will be open to anyone. 
+
+#### Provide a more flexible framework to work. 
 - Tackle one challenge at a time.
 - allow teams to collaborate and encourage building on merging solutions. 
-- Different groups might be interested in different parts of the build challenges. 
+- Different groups might be interested in different parts of the build challenges so approach so try to facilitate. 
 - Maybe even try an agile approach?
 
 
