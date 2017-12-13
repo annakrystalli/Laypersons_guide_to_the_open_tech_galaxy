@@ -57,6 +57,6 @@ Put the challenge to local hack groups as a series of fun hack sessions with par
 
 ### great potential for downsream data science projects
 
-![](https://gph.is/2dkEiCQ?raw=true "Title)
+<iframe src="https://giphy.com/embed/kZEARnEy9ZSy4" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/galaxy-gif-kZEARnEy9ZSy4">via GIPHY</a></p>
 
 
